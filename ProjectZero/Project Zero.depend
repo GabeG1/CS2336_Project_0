@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1535603840 source:c:\homeworks\project zero\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+
+1536206511 source:c:\homeworks\projectzero\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<math.h>
+	<iomanip>
+
